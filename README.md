@@ -6,6 +6,7 @@ AI Call Center,LLM,Call,IPCC,Voice,AI,Call Center,Contact Center,FreeSWITCH,TTS,
 # 目标
 
 致力于成为：大模型呼叫中心系统、大模型呼入机器人、大模型呼出机器人、电话机器人、智能呼叫中心系统、大模型智能客服系统的全球领导者！！
+我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！
 
 # 📫 How to reach us:
 
