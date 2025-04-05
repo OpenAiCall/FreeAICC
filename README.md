@@ -74,9 +74,8 @@ Basic functions:
 ![image](https://github.com/user-attachments/assets/95328f16-e43a-4e6a-87d7-1c1ba95f5824)
 ![image](https://github.com/user-attachments/assets/478dc431-8f05-4333-8d8a-4f61c9ff8749)
 
-# 😄Let me express our values ​​again: We firmly believe that only when software is used can it bring value to users and allow itself to iterate!!!
+# 😄Let me express our values ​​again: We firmly believe that only when software is used can it bring value to users and allow itself to iterate!
 
 The sample code is the backend code of the web customer service. The original frontend is outdated and is still being updated. 
 
 As the FreeAICC is too powerful, the team is very worried that the product will be used for illegal purposes. Therefore, if you need the source code, please contact us separately by email, describing your usage scenario, the nature of your enterprise, etc.
-
