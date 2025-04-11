@@ -14,7 +14,7 @@ LLM call center system, AI Call Center, contact center, call center, intelligent
 ## 😄We firmly believe that only when software is used can it bring value to users and allow itself to iterate!
 ## 😄Sustainability: Continuous iteration since 2014, members come from ecological enterprises such as Cisco, Avaya, Huawei, FreeSWITCH, etc., long-termism!
 # Target
-We are committed to becoming the global leader in: open source call center systems, large model call center systems, large model inbound robots, large model outbound robots, telephone robots, intelligent call center systems, and large model intelligent customer service systems!
+We are committed to becoming the global leader in: open source call center systems, large model call center systems, large model inbound robots, large model outbound robots, telephone robots, intelligent call center systems, and large model intelligent customer service systems!!!
 
 # 📫 How to reach us:
 
