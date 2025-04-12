@@ -21,11 +21,12 @@ We are committed to becoming the global leader in: open source call center syste
 # 📫 How to reach us:
 
 - Tencent WeChat:freeaicc
+- Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-# 2025.04.11 latest demo link enjoy😄😄：
+# 2025.04.12 latest demo link enjoy😄😄：
 
 1，Telephone/Online Customer Service：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
