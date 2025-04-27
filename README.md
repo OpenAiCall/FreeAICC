@@ -33,7 +33,7 @@ http://124.220.48.38:8822/cc
 2，Work Order：(demo/123456)
 http://124.220.48.38:80
 
-注意：如果页面打不开，是因为demo页面正在频受DDo5攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
+注意：如果页面打不开，是因为demo页面正在频受DDo5攻击，目前我们正处理，还请用户谅解。可直接加我们联络方式进行沟通。
 ![image](https://github.com/user-attachments/assets/bcb346cd-9f41-4f92-9062-3f932928225b)
 
 3，Demo video: Please download the repository MP4 file.
@@ -41,11 +41,6 @@ http://124.220.48.38:80
 # Development Language：Java,Vue,Python,SpringBoot！
 
 The business module is mainly Java; the intelligent module is mainly Python.
-
-## 😄客户专属群支持小组的人员数量：10人左右
-下图是随机抽取的复制支持的群：
-![image](https://github.com/user-attachments/assets/5d0504ec-3986-47fc-a510-6b2e8767fb47)
-![image](https://github.com/user-attachments/assets/cb0990dc-0c2e-4364-8d08-a8f3437e1702)
 
 # FreeAICC Vision and basic functions
 
