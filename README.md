@@ -82,6 +82,14 @@ Basic functions:
 ![image](https://github.com/user-attachments/assets/95328f16-e43a-4e6a-87d7-1c1ba95f5824)
 ![image](https://github.com/user-attachments/assets/478dc431-8f05-4333-8d8a-4f61c9ff8749)
 
+## 😄用户专属群支持小组的群人员数量：10人左右，响应更及时
+
+下图是随机抽取的需求对接的群：
+
+![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
+
+![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
+
 # 😄Let me express our values ​​again: We firmly believe that only when software is used can it bring value to users and allow itself to iterate!
 
 The sample code is the backend code of the web customer service. The original frontend is outdated and is still being updated. 
