@@ -1,5 +1,5 @@
 # LLM Call Center System FreeAICC
-**Read this in [English](README_EN.md).**!
+**Read this in [English](README_EN.md).**
 **Читать на русском языке [Русский](README_RU.md).**
 **Auf Deutsch lesen [Deutsch](README_DE.md).**
 **Lire en français [Französisch](README_FR.md).**
@@ -41,6 +41,11 @@ http://124.220.48.38:80
 # Development Language：Java,Vue,Python,SpringBoot！
 
 The business module is mainly Java; the intelligent module is mainly Python.
+
+## 😄客户专属群支持小组的人员数量：10人左右
+下图是随机抽取的复制支持的群：
+![image](https://github.com/user-attachments/assets/5d0504ec-3986-47fc-a510-6b2e8767fb47)
+![image](https://github.com/user-attachments/assets/cb0990dc-0c2e-4364-8d08-a8f3437e1702)
 
 # FreeAICC Vision and basic functions
 
