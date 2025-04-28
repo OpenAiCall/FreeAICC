@@ -74,7 +74,7 @@ Basic functions:
 ![image](https://github.com/user-attachments/assets/95328f16-e43a-4e6a-87d7-1c1ba95f5824)
 ![image](https://github.com/user-attachments/assets/478dc431-8f05-4333-8d8a-4f61c9ff8749)
 
-## 😄用户专属群支持小组的群人员数量：10人左右，响应更及时
+## 😄每一个用户，都有专属群支持：10人左右，响应更及时
 
 下图是随机抽取的需求对接的群：
 
