@@ -14,19 +14,18 @@ LLM call center system, AI Call Center, contact center, call center, intelligent
 ## 😄Functional completeness: call center system, work order system, IM online customer service system, recording system, full functions, unlimited!
 ## 😄We firmly believe that only when software is used can it bring value to users and allow itself to iterate!
 ## 😄Sustainability: Continuous iteration since 2014, members come from ecological enterprises such as Cisco, Avaya, Huawei, FreeSWITCH, etc., long-termism!
-## 😄Long-term goal: To empower 10,000 integrators with large-scale call center capabilities and serve 1.2 million customers!
+## 😄Long-term goal: Leading the development of the call center industry, empowering 10,000 integrators with big model call center capabilities and serving 1.2 million customers!
+
 # Target
 We are committed to becoming the global leader in: open source call center systems, large model call center systems, large model inbound robots, large model outbound robots, telephone robots, intelligent call center systems, and large model intelligent customer service systems!
 
-# 📫 How to reach us:
-
-- Tencent WeChat:freeaicc
+## 📫 How to reach us 📫:
+- Tencent WeChat01:freeipcc
+- Tencent WeChat02:freeaicc
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
-- Skype：https://join.skype.com/invite/rVbQH1igkQwV
-- Skype UserID：live:.cid.fedb411de91d9b
-- Email:leehear@gmail.com 
+- Email:leehear@gmail.com
 
-# 2025.06.11 latest demo link enjoy😄😄：
+# 2025.06.12 latest demo link enjoy😄😄：
 
 1，Telephone/Online Customer Service：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
