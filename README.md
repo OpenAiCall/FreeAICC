@@ -23,9 +23,9 @@ AI呼叫中心,AI客服系统,AI Call Center,AI Customer Service System,AI Ко�
 <img src="https://github.com/user-attachments/assets/6e2f8cc1-131b-477c-bcb1-bbb8f39990e5" width="200" height="100">
 <img src="https://github.com/user-attachments/assets/8ffb1298-a1de-45e4-9384-b9682715f197" width="300" height="100">
 
-<img src="https://github.com/user-attachments/assets/804f4d98-b39d-42ba-acd0-3911243c264e" width="300" height="300">
-<img src="https://github.com/user-attachments/assets/d13ed06c-7ae3-4bea-b1d4-426e7e869af8" width="300" height="300">
-<img src="https://github.com/user-attachments/assets/6f67e4ca-bb24-4431-9bf8-60ac53b1f956" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/0b707a64-d6ad-44e9-9bce-69fff48f0b48" width="260" height="260">
+<img src="https://github.com/user-attachments/assets/6f67e4ca-bb24-4431-9bf8-60ac53b1f956" width="260" height="260">
+<img src="https://github.com/user-attachments/assets/cab318c8-a7d5-4049-af90-0d5965813787" width="260" height="260">
 
 # Target
 We are committed to becoming the global leader in: open source call center systems, large model call center systems, large model inbound robots, large model outbound robots, telephone robots, intelligent call center systems, and large model intelligent customer service systems!
