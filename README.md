@@ -1,5 +1,5 @@
 # LLM Call Center System FreeAICC
-**中文请阅读 [简体中文](README_CN.md).**!!
+**中文请阅读 [简体中文](README_CN.md).**
 **Read this in [English](README_EN.md).**
 **Читать на русском языке [Русский](README_RU.md).**
 **Auf Deutsch lesen [Deutsch](README_DE.md).**
@@ -11,6 +11,9 @@
 
 **اقرأ باللغة العربية[عربي](README_AR.md).**
 AI呼叫中心,AI客服系统,AI Call Center,AI Customer Service System,AI Колл-центр,AI Система обслуживания клиентов,AI Callcenter AI Kundenservice-System,Centro de llamadas AI Sistema de servicio al cliente AI,Centro de atendimento AI,Sistema de atendimento ao cliente AI,AIコールセンター ,AIカスタマーサービスシステム,AI 콜센터,AI 고객 서비스 시스템,LLM call center system, AI Call Center, contact center, call center, intelligent outbound call, LLM, big language model, IPCC, Voice, AI, TTS, ASR, NLP, customer service center!Система колл-центра LLM, колл-центр с искусственным интеллектом, контакт-центр, колл-центр, интеллектуальный исходящий вызов, LLM, большая языковая модель, IPCC, голос, AI, TTS, ASR, NLP, центр обслуживания клиентов!نظام مركز الاتصال الذكي النموذجي الكبير، مركز الاتصال النموذجي الكبير، النموذج الكبير، مركز الاتصال، روبوت وارد نموذجي كبير، روبوت صادر نموذجي كبير، مكالمة صادرة ذكية، روبوت نموذجي كبير، مكالمة صادرة من الهاتف الذكي، FreeSWITCH خدمة العملاء الذكية النموذجية الكبيرة، نظام مركز الاتصال الذكي النموذجي الكبير، مركز الاتصال بالذكاء الاصطناعي، LLM، الاتصال، IPCC، الصوت، الذكاء الاصطناعي، مركز الاتصال، TTS، ASR، NLP، مركز الاتصال، مركز خدمة العملاء!!LLM-Callcenter-System, KI-Callcenter, Kontaktcenter, Callcenter, intelligenter ausgehender Anruf, LLM, großes Sprachmodell, IPCC, Sprache, KI, TTS, ASR, NLP, Kundenservicecenter!Sistema de centro de llamadas LLM, centro de llamadas de IA, centro de contacto, centro de llamadas, llamada saliente inteligente, LLM, modelo de lenguaje grande, IPCC, voz, IA, TTS, ASR, NLP, centro de atención al cliente.Système de centre d'appels LLM, centre d'appels AI, centre de contact, centre d'appels, appel sortant intelligent, LLM, grand modèle de langage, IPCC, voix, IA, TTS, ASR, NLP, centre de service client ! LLM call center system, AI Call Center, contact center, call center, intelligent outbound call, LLM, big language model, IPCC, Voice, AI, TTS, ASR, NLP, customer service center!大規模言語モデルインテリジェントコールセンターシステム、大規模モデル人工知能コールセンター、大規模モデルインテリジェントアウトバウンドコールシステム、コールセンター、大規模モデルインバウンドロボット、大規模モデルインテリジェントアウトバウンドロボット、インテリジェントアウトバウンドコール、大規模モデルインテリジェントコールロボット、インテリジェント電話アウトバウンドコール、FreeSWITCH大規模モデルインテリジェントカスタマーサービス、大規模モデルインテリジェントコールセンターシステム、AIコールセンター、LLM、コール、IPCC、音声、AI、コールセンター、TTS、ASR、NLP、コンタクトセンター、カスタマーサービスセンター!!LLM 콜센터 시스템, AI 콜센터, 컨택센터, 콜센터, 지능형 아웃바운드 콜, LLM, 빅 랭귀지 모델, IPCC, 음성, AI, TTS, ASR, NLP, 고객 서비스 센터!Sistema de call center LLM, call center de IA, contact center, call center, chamada de saída inteligente, LLM, modelo de grande linguagem, IPCC, voz, IA, TTS, ASR, PNL, centro de atendimento ao cliente!
+
+## 😄Why use a large language model in a call center? Truly solve the pain points of the "ASR+NLP+TTS" era and make AI truly usable!
+![image](https://github.com/user-attachments/assets/da9ac236-e43b-4b87-8c2a-22068f2a91c8)
 
 ## 😄Code integrity: front-end, back-end, database, all complete! All open, no restrictions! No distinction between community version and commercial version!
 ## 😄Functional completeness: call center system, work order system, IM online customer service system, recording system, full functions, unlimited!
@@ -38,7 +41,7 @@ We are committed to becoming the global leader in: open source call center syste
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com 
 
-# 2025.07.03 latest demo link enjoy😄😄：
+# 2025.07.05 latest demo link enjoy😄😄：
 
 1，Telephone/Online Customer Service：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
